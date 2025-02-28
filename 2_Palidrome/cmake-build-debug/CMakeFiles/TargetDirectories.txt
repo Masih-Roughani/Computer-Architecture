@@ -1,0 +1,3 @@
+D:/Code/2_Palidrome/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Code/2_Palidrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/2_Palidrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
